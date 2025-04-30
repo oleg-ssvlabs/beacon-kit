@@ -15,7 +15,7 @@ import (
 	"github.com/attestantio/go-eth2-client/spec"
 	"github.com/attestantio/go-eth2-client/spec/altair"
 	"github.com/attestantio/go-eth2-client/spec/phase0"
-	"github.com/bloxapp/beacon-kit"
+	"github.com/oleg-ssvlabs/beacon-kit"
 )
 
 type methods struct {

@@ -5,7 +5,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/bloxapp/beacon-kit"
+	"github.com/oleg-ssvlabs/beacon-kit"
 )
 
 // Scope dictates the behaviour of calls to the pool.
